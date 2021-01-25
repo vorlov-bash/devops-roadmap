@@ -1,11 +1,13 @@
 <h3 align="center">DevOps roadmap</h3>
-<img src="img/threasuremap.jpg" width="400" height="642">
+<p align="center">
+  <img alt="######### ABSTRACT #########" src="img/threasuremap.jpg" width="280" height="442">
+</p>
 
 This roadmap will demonstrate my DevOps skills.
 
 ### ⚠️Disclaimer ⚠️
 
-I'm not pretend to be a professional programmer and moreover devops specialist.
+I'm not pretending to be a professional programmer and moreover DevOps specialist.
 
 ### Idea 💡:
 
@@ -16,8 +18,9 @@ demonstrate my road to good DevOps and a good programmer.
 
 ### Roadmap 📈:
 
-This image demonstrates some average roadmap.
-<img srs="img/roadmap.jpg" width="500" height="700">
+<p align="center">
+  <img alt="This image demonstrates some average roadmap." src="img/roadmap.jpg" width="500" height="700">
+</p>
 
 ### Goals 🏃:
 
