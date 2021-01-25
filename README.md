@@ -1,9 +1,13 @@
 <h3 align="center">DevOps roadmap</h3>
-<p align="center">
-  <img alt="######### ABSTRACT #########" src="img/threasuremap.jpg" width="280" height="442">
-</p>
 
 This roadmap will demonstrate my DevOps skills.
+
+### Content:
+
+* [Disclaimer ⚠️](#disclaimer-)
+* [Idea 💡](#idea-)
+* [Roadmap 📈](#roadmap-)
+* [Goals 🏃](#goals-)
 
 ### ⚠️Disclaimer ⚠️
 
