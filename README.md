@@ -106,5 +106,5 @@ demonstrate my road to good DevOps and a good programmer.
 
 ### Contact ✉️:
 
-* Telegram: [Click me!](tg://user?id=370091393)
-* Email: [Click me!](mailto:volodka.orlov@gmail.com?subject=[GitHub]%20DevOps%20roadmap)
+* Telegram: @volodkaorlov
+* Email: volodka.orlov@gmail.com
